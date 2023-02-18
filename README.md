@@ -35,7 +35,7 @@
 - Go to https://gist.github.com/
 - Create a new gist
 - Paste the code and save it as discord_bot.py
-- Now put in the URL section of uptimerrobot.com the URL of your gist (YOU HAVE GOT TO MODIFY THE URL, ADD TO THE END /raw/<NAME_OF_THE_GIST.py)
+- Now put in the URL section of uptimerrobot.com the URL of your gist (YOU HAVE GOT TO MODIFY THE URL, ADD TO THE END /raw/NAME_OF_THE_GIST.py)
 - Now click on 'Create Monitor'
 
 ---
