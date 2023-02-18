@@ -12,8 +12,8 @@
       - Make sure to click on 'View Token' and 'Copy'
        - Now open the file 'bot.py' and paste in the last line between the apostrophes
         - Save the file
-     - Head over to the 'OAuth2' bar
-      - Click on 'URL generator'
-       - Tick 'Bot'
-        - Allow everything in 'TEXT PERMISSION'
-         - Copy the URL and save it somewhere safe like a .txt file in your computer
+      - Head over to the 'OAuth2' bar
+       - Click on 'URL generator'
+        - Tick 'Bot'
+         - Allow everything in 'TEXT PERMISSION'
+          - Copy the URL and save it somewhere safe like a .txt file in your computer
