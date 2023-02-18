@@ -32,7 +32,7 @@
 - (Don't close the page) Go to https://gist.github.com/INeddHelp/de3f0f8c292eb64b1ab7d562bab673bc/raw/discord_bot.py , right click and click on 'Save as'
 - Now take the token you put in bot.py and place it in discord_bot.py always in the last line between the apostrophes
 - Save the file as a .py file 
-- Go to https://gist.github.com/<<YOUR-GITHUB-NICKNAME>>
+- Go to https://gist.github.com/
 - Create a new gist
 - Paste the code and save it as discord_bot.py
 - Now put in the URL section of uptimerrobot.com the URL of your gist (YOU HAVE GOT TO MODIFY THE URL, ADD TO THE END /raw/<NAME_OF_THE_GIST.py)
