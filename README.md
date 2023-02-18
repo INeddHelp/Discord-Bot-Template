@@ -45,3 +45,7 @@
 - Use the link you copied before and paste it on google
 - Invite your bot to the server 
 - Now type in chat @the-name-you-gave-your-bot and it should print out 'Hello!'
+
+If you have any issue during the path, please submit an issue.
+
+Thank you for choosing my repository.
