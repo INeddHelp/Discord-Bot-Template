@@ -22,4 +22,20 @@
 - Click on 'URL generator'
 - Tick 'Bot'
 - Allow everything in 'TEXT PERMISSION'
-- Copy the URL and save it somewhere safe like a .txt file in your computer
+- Copy the URL and save it somewhere safe like a URL.txt file in your computer
+
+---
+
+- Now go to https://uptimerobot.com/ and register
+- After doing so click on 'Add New Monitor'
+- In 'Monitor Type' select HTTP(s)
+- In the URL section paste the URL you saved before in the URL.txt file (don't delete it yet!)
+- Now click on 'Create Monitor'
+
+---
+
+- Now go on Discord
+- Create a new server
+- Use the link you copied before and paste it on google
+- Invite your bot to the server 
+- Now type in chat @the-name-you-gave-your-bot and it should print out 'Hello!'
