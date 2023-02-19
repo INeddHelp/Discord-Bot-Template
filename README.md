@@ -1,5 +1,5 @@
 # Discord-Bot-Template
-#
+# STILL WORK IN PROGRESS 
 # Guide on how to set up your discord bot
 
 - First off download the file 'bot.py' from here: https://github.com/INeddHelp/Discord-Bot-Template/releases/tag/v1.0.0
